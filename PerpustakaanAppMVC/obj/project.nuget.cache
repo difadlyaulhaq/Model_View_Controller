@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jD5ubmPpsCV3thWQzhgwyi7c6Wpo/5xPD8p2FOPX9cerX9T5P+lsFVmJm4om+hFYB2tnsO+5F7A+TZ2DdEOJVw==",
+  "success": true,
+  "projectFilePath": "D:\\kuliah difa\\Semester 3\\pemrog\\praktikum\\PerpustakaanAppMVC\\PerpustakaanAppMVC\\PerpustakaanAppMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
